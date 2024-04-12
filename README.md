@@ -15,3 +15,17 @@ use wechat history to train a model, then use the model to chat on behalf of me.
 
 - Python 3.10
 - nvidia 4090
+
+## How to use
+
+```shell
+
+pip install poetry
+
+poetry install
+
+poetry shell
+
+python src/bot.py
+
+```
