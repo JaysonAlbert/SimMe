@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "simme"
+version = "0.1.0"
+description = ""
+authors = ["wangjie <momeijw@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+itchat-uos = "^1.4.1"
+wechaty = "^0.10.7"
+wechaty-puppet-itchat = "^0.0.6"
+urllib3 = "<2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
