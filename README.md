@@ -10,6 +10,7 @@ use wechat history to train a model, then use the model to chat on behalf of me.
 - use wechaty as the Chat Bot framework
 - use gemma 2b as base model
 - use Lara/Q-Lora to Fine-Tune the model
+- use [WeChatMsg](https://github.com/LC044/WeChatMsg.git) to export wechat history
 
 ## Environment
 
