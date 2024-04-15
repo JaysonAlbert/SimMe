@@ -11,6 +11,7 @@ itchat-uos = "^1.4.1"
 wechaty = "^0.10.7"
 wechaty-puppet-itchat = "^0.0.6"
 urllib3 = "<2.0.0"
+loguru = "^0.7.2"
 
 
 [build-system]
